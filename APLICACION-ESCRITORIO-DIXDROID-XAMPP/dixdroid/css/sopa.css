@@ -1,0 +1,20 @@
+  #sopa table
+    {
+        border: solid 1px #e8eef4;
+        border-collapse: collapse;
+        width: 50%;
+    }
+    
+    #sopa table td
+    {
+        padding: 5px;
+        border: solid 1px #e8eef4;
+    }
+    
+    #sopa table th
+    {
+        padding: 6px 5px;
+        text-align: left;
+        background-color: #e8eef4;
+        border: solid 1px #e8eef4;
+    }
